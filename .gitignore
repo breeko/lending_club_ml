@@ -1,4 +1,5 @@
+.ipynb_checkpoints/*
 interactive_demo.ipynb
-LoanStats*.csv
+LoanStats*
 neural_network.py
-Unititled*.py
+Untitled*
